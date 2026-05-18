@@ -1,4 +1,4 @@
-Global Hardware Procurement & Supply Chain Analytic
+```Global Hardware Procurement & Supply Chain Analytic
 An end-to-end data analytics project focused on inventory risk management, vendor procurement logistics, and physical warehouse utilization. This project builds a relational data model containing 5 tables and 28 attributes** using synthetic data generated via Mockaroo AI to run advanced SQL analytics and power a multi-page interactive Business Intelligence application.
  📊 Relational Data Architecture
 The data ecosystem simulates a corporate hardware enterprise. All specialized dimension tables link back directly to the core fact table via a **One-to-Many (1:N)** relationship mapped on the primary relational identifier: `Device_ID`.
@@ -37,4 +37,4 @@ Crowded Warehouse Analysis Table: Indexes spatial capacity limits across warehou
 Tech Stack & Skills Demonstrated
 Database Management: Primary/Foreign key entity integrity enforcement, relational data modeling (1:N Star Configuration).
 SQL Programming: Multi-table joining, logical calculations, sub-query engineering, operational Stored Procedures.
-Business Intelligence (Power BI): Interactive reporting design, visual hierarchy development, cross-filtering configuration, KPI metric card implementation
+Business Intelligence (Power BI): Interactive reporting design, visual hierarchy development, cross-filtering configuration, KPI metric card implementation```
