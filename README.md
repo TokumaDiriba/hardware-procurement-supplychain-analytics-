@@ -28,6 +28,10 @@ Device Stock Status Matrix: Tracks hardware assets alongside dynamic operational
      `URGENT` - Stock dropped below required safety thresholds.
 Financial Allocation Matrix: Breaks down financial exposure by brand, identifying major value holdings (e.g., Toyota at 52.6M, Volkswagen at 47.2M).
 Device Category Slicer Panel: A sidebar component enabling users to drill down instantly into specific domains such as Accessories, Audio, or Automotive.
+
+<img width="895" height="508" alt="bi 1" src="https://github.com/user-attachments/assets/996869e5-9993-4f03-8a52-e699489e688c" />
+
+
  Tab 2: procurement_logistics (Sourcing Analytics)
 Focuses on international trade channels, supplier velocity metrics, and physical facility storage loads.
 KPI Metrics: Monitors a total network of `150` unique suppliers managing a combined structural footprint of `5.20K` warehouse weight.
@@ -38,3 +42,4 @@ Tech Stack & Skills Demonstrated
 Database Management: Primary/Foreign key entity integrity enforcement, relational data modeling (1:N Star Configuration).
 SQL Programming: Multi-table joining, logical calculations, sub-query engineering, operational Stored Procedures.
 Business Intelligence (Power BI): Interactive reporting design, visual hierarchy development, cross-filtering configuration, KPI metric card implementation```
+<img width="901" height="592" alt="bi 2" src="https://github.com/user-attachments/assets/bcb0bdfb-03c4-4fdd-88f3-d142e3f59268" />
